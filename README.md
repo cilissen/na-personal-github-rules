@@ -1,5 +1,9 @@
 # Personal GitHub Rules
 
+![Maintained by cilissen](https://img.shields.io/static/v1?label=Maintained%20by&message=cilissen&color=blue)
+![Status](https://img.shields.io/static/v1?label=Status&message=Complete&color=darkgreen)
+![Repo Size](https://img.shields.io/github/repo-size/cilissen/na-personal-github-rules)
+
 Just some personal rules to remind myself of.
 
 ## Repository Name
