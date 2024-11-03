@@ -8,7 +8,7 @@ Just some personal rules to remind myself of.
 
 ## Repository Name
 
-{programming_language}-{course_if_applicable}-{target_os_if_applicable}-{lower_case_name_of_project_seperated_by_minus}
+{programming_language}-{course_if_applicable}-{target_os_if_applicable}-{lower_case_name_of_project_seperated_by_hyphen}
 
 > example: `python-project-name`
 
